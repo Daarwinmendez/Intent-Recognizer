@@ -23,10 +23,11 @@ pip install numpy==1.26.4 scipy==1.11.2 nltk py3langid contractions pandas matpl
 ## Uso
 
 Clonar este repositorio o descargar el archivo intent_recognition_main.ipynb.
-Instalar los requerimientos mencionados.
-Abrir el notebook y ejecutar las celdas secuencialmente para:
-Realizar el preprocesamiento de datos.
-Entrenar el modelo de clasificación.
-Analizar y visualizar los resultados.
-Ajustar los hiperparámetros o cambiar los algoritmos de clasificación según sea necesario.
+1. Instalar los requerimientos mencionados.
+2. Abrir el notebook y ejecutar las celdas secuencialmente para:
+3. Realizar el preprocesamiento de datos.
+4. Entrenar el modelo de clasificación.
+5. Analizar y visualizar los resultados.
+6. Ajustar los hiperparámetros o cambiar los algoritmos de clasificación según sea necesario.
+   
 ¡Disfruta explorando y aprendiendo sobre el reconocimiento de intenciones en texto con este proyecto!
